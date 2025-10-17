@@ -1,0 +1,2 @@
+[24-Oct-2024 02:46:13 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/cheasyst/public_html/store.cheasy.finance/wp-content/plugins/yith-woocommerce-wishlist/includes/functions-yith-wcwl-update.php on line 153
+[24-Oct-2024 02:46:13 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/cheasyst/public_html/store.cheasy.finance/wp-content/plugins/yith-woocommerce-wishlist/includes/functions-yith-wcwl-update.php on line 164
